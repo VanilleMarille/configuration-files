@@ -5,7 +5,7 @@
 # this file and re-run i3-config-wizard(1).
 #
 
-output "*" bg /home/julia/Bilder/Wallpaper/Colorful.jpg fill
+output "*" bg $HOME/.config/sway/background.* fill
 
 input * {
     xkb_layout "de"
